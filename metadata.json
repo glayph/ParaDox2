@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI Studio",
+  "description": "A premium, multi-model AI workspace for professional builders. Unified chat, workspace management, and knowledge grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Chat", "Knowledge Base", "Model Management", "Analytics"]
+}
